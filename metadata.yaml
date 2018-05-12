@@ -1,0 +1,38 @@
+_repo: The-Strollers_29726
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Isham, Frederic Stewart
+    aliases:
+    - Isham, Frederick S. (Frederick Stewart)
+    - Isham, F. S. (Frederic Stewart)
+    - Isham, Frederic S. (Frederic Stewart)
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '3515'
+    url: http://www.gutenberg.org/2009/agents/3515
+description: ''
+gutenberg_issued: '2009-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29726'
+  lccn: 02009136
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Strollers
+url: http://www.gutenberg.org/ebooks/29726
